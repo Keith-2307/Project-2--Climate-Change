@@ -1,0 +1,8 @@
+Year,Elec output in GWh index,Share of elec output from fossil fuels index,CO2 intensity of fossil fuel mix index,Thermal eff of elec plants incl CHP elec index,CO2 emissions from elec gen (incl CHP elec) index,Units,,Sum
+1990,76.79,98.05,100.57,99.51,76.09,Index (2000=100),,374.92
+1995,85.91,96.37,100.59,97.75,85.19,Index (2000=100),,380.62
+2000,100,100,100,100,100,Index (2000=100),,500
+2005,118.51,102.98,99.61,102,119.21,Index (2000=100),,423.1
+2010,139.52,104.31,98.93,105.23,136.84,Index (2000=100),,584.83
+2015,157.39,102.78,98.52,108.02,147.56,Index (2000=100),,614.27
+2018,172.55,99.69,98.44,110.11,153.79,Index (2000=100),,634.58
