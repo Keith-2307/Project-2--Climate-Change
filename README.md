@@ -196,23 +196,35 @@ The following open source packages are used in this project:
  <p align="justify">
   
 **Heat Map**
+  
 The Intergovernmental Panel on Climate Control (IPCC) report, indecates that the earth temperature is unfortunately racing towards 1.5 degrees celcius above pre-industrial levels. Pre-industrial levels are the recorded temperatures between 1850 and 1900 which is the period of time before the start of the industrial revolution in the early 1900s. As the change in temperature increases towards 1.5 degrees, it is estimated that the number of natural disasters being faced will double in frequency. Furthermore, if we are to achieve 2 degrees celcius above pre-industrial levels we would expect natural disasters to quadruple in frequency, with noticeable mentions in severity. Droughts are prolonged, huricanes, cyclones are more severe and the number of wild fires will increase exponential as we have been experiencing.
 
 The effects of Climate Change on the earth is a story which began in the Carboniferous Period, 360 millions years ago when most of the earth's land was forested. When these trees died, the carbon that they stored was trapped underground for millions of years until it was brought back up and put back into the atmosphere at an unnatural rate. 
   
 **Metane Emmission Plot**
- 
+  
+There are currently approximately 1.3 to 1.5 billion cows grazing sleeping end chewing their curds at any given time on planet earth, and these 1300 pounds average weight for both a beef and dairy cow. These animals they eat a lot. Much like humans when they eat, gas builds up inside of their guts and must be expelled. Cows fart and burp a lot, the result is a large amount of methane being introduced into the atmosphere. In a 2006 UN Food and Agriculture organization report, it claims that the livestock sector most of which are cows, generates more greenhouse gas emissions as measured in CO2 equivalent 18% than transport. The average cow produces enough methane per year, to do the same greenhouse damage as four tons of carbon dioxide. So, this significantly contributes to global warming.
+
+To understand how cattle produce such high quantities of methane, we need to know that cows, sheep, goats, giraffes, and deer belong to a class of mammals called ruminants. Most ruminants have four stomachs two toed feet and store their food in the first Chamber of the stomach called the rumen before regurgitating it. This regurgitated food is called curd and the animals chew it again to help further break it down to make it easier to digest. Inside of the rumen, over 400 different kinds of microbes exist that also play a critical role in the digestion process. Several of these microbes create methane gas as a by-product. Due to the large number of cows on the planet, along with the large size per cow, they produce more methane gas than all other ruminants combined. This is bad because methane is 21 times more potent at trapping heat from the sun than carbon dioxide. Though it is less prevalent in the atmosphere than carbon dioxide it is by unit of the most destructive of the greenhouse gases. Since the turn of the 19th century methane gas emissions have increased by 150%. Methane gas like all other greenhouse gases, which includes water vapor acts as a blanket around our planet trapping heat.
+
+Livestock is the largest source of methane gas emissions worldwide, contributing over 28% of total emissions. Wetlands, leaks from oil refineries and drills also contributed methane gas to the atmosphere. In fact, unlike the ratios on a global scale in the United States, livestock is only the third largest contributor behind the mining and transportation of natural gas and rotting landfill waste.
+
+It is estimated through whichever orifice that each individual cow lets out between 30 and 50 gallons of methane day. With an estimated 1.3 to 1.5 billion castles in the world today this adds up fast. As the sunburst plot indicates, the large volume of methane being emitted in Australia and the Oceania regions which has a suitable climate to livestock grazing and ranching, including beef cattle, dairy cattle, domestic deer and most importantly, sheep. Sheep outnumber people in New Zealand by about 12 to 1. Methane gas emitted by cows and other livestock does have a significant impact on the amount of greenhouse gases in our atmosphere which are the main culprits behind climate change and global warming wildfires. 
   
 **Temperature Effect of Production**
+  
 The above plot shows the relationship between the max crop yield (Wheat, Rice, Maize) and the Maxium temperature measured from 1991-2019 on the same axis. This represents the inverse reaction that the change in temperature is having on our ability to produce these 3 products which forms the basis of the Carbohydrate intake of the world's cultures in some form or another. As the earth's temperature increases, there is a greater shift towards energy use and fertilizers when producing these products (crop yield) because demand increases as population increases. The increase in energy use is required to acquire water for instance and make it more available as the increase in droughts and prolong droughts restricts production. It should also be understood that the production of Wheat globally is the most significantly affected by the increase in temperature.
   
 **CO2 emmission per region**
+  
 Based on the Arima Model output shown we can conclude statistically the data shown as inconclusive where the prediction is showing a decent growth rate whereas the actual is showing a decline.Due to all the external factors also affecting the future outcome I think there is some validity to the prediction because CO2 is impacted by more factors than the data used in this projection. With that being considered as long as we as a whole continue to control the risks that are within our capacity to control there should be a slower rate of CO2 emmission into the atmosphere.  
   
 **Energy Consumption**
+  
 As per the ARIMA model and the prediction generated, the results are inconclusive. With the prediction casted graph shown above, both plots displayed it looks like they will eventually intersect.With an analysis of the results it can be determined that global consumption will slow with a noticeable increase.Some external factors are to be considered thus cause the increase in energy consumption. Which is unavoidable due to population growth and technology advancements. 
  
 **Investment Plots**
+  
 The above plots indicates our investment strategies, despite the global warnings:
 
 Despite all the issues which combats the planet, we investigated human behavior on a financial scale, more specifically their investment strategies and confidence in the reports and warnings being peppered out. We thought it necessary to portray the confidence in the stock market with regards to our willingness to change and save our planet, as a result:
