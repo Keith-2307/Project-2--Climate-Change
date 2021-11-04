@@ -76,6 +76,10 @@ As a result, the problems faced are huge and we have very little   time to remed
 
 <p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/140379393-b3680d32-83c3-47a1-9364-21dac7a37c39.jpg"></p>
 
+First there's the arctic, at 1.5 degrees warming Arctic Sea ice will last through most summers but at 2 degrees ice free summers become ten times more likely. This would not only be devastating for Arctic wildlife but would reduce the albedo or the amount of light being reﬂected away from the earth causing even more warming. Ice melt coupled with rising temperatures of 1.5 degrees means sea level rise could be somewhere between 26 and 77 centimeters. At 2 degrees that range could go up a whole 10
+centimeters.
+
+That change could expose about 10 million more people to harmful ﬂooding than if warming stays at 1.5. A warmer world also means that fresh water will become even more scarce. At 1.5 degrees, severe drought will likely aﬀect 350 million people but at 2 degrees that number grows to 411 million people. Heat waves get worse too, at 1.5 degrees about 14% of the world's population will be exposed to severe heat waves and at 2 degrees that number more than doubles rising to a Wapping 37%. Then there's the coral reefs, at 1.5 degrees warming 70 to 90% of the coral reefs die, at 2 degrees that number grows to greater than 99%, meaning virtually all coral reefs will disappear. This would be devastating to marine biodiversity and aﬀect nearly 500 million people who rely on them for storm protection, food, jobs and recreation.
 
  
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)   
