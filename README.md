@@ -1,2 +1,248 @@
-# Project-2--Climate-Change
+# Project-2: Climate Change
 Global Warming is demanding a shift to sustainable energy...
+
+ 
+</h1>
+
+<h1 align="center">
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+></a> 
+ </h1>
+ 
+   
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+**Introduction**
+ 
+> When Sumerian merchants first recorded livestock sales on clay tablets, finance technology was born. Five thousand years later, technology has evolved into a new class of digital tools reshaping every aspect of the business. No matter what future entrepreneurs see for their finance organization, one thing is clear: That future is now. If they’re going to compete in the digital world, their organization needs to forecast and manage more effectively and become more efficient.
+
+![blockchain-g2fb897487_1920](https://user-images.githubusercontent.com/83662813/139303784-2d84f4cf-3afa-4ef1-a904-56802e79369c.png)
+ 
+ <!-- TABLE OF CONTENTS -->
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124740340-9eb50180-df12-11eb-9295-e33ac2752c57.png" width="50px" />
+<h2 id="table-of-contents"> Table of Contents</h2>
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#Background"> ➤ Background</a></li>
+    <li><a href="#Heat-Map"> ➤ Heat Map</a></li>
+    <li><a href="#XGBoost-and-LinRegression"> ➤ XGBoost and LinRegression</a></li>
+    <li><a href="#Global-Production-Scatter-plot"> ➤ Global Production Scatter plot</a></li>
+    <li><a href="#CO2-Emissions"> ➤ CO2 Emissions</a></li>
+    <li><a href="#Total-Energy-Consumption"> ➤ Total Energy Consumption</a></li>
+    <li><a href="#Methane-Emission"> ➤ Methane Emission</a></li>
+    <li><a href="#The-investment-Choices"> ➤ The investment Choices</a></li>
+    <li><a href="about-the-project"> ➤ About The Project</a></li>
+    <li><a href="#Prerequisites"> ➤ Prerequisites</a></li>
+    <li><a href="#Project-roadmap"> ➤ Project Roadmap</a></li>
+    <li>
+      <a href="#Deliverables"> ➤ Deliverables</a>
+      <ul>
+        <li><a href="#Key-Project-Features">Key Project Features</a></li>
+      </ul>
+    </li>
+    <!--<li><a href="#experiments">Experiments</a></li>-->
+    <li><a href="#results-and-discussion"> ➤ Results and Discussion</a></li>
+    <li><a href="#references"> ➤ References</a></li>
+    <li><a href="#contributors"> ➤ Contributors</a></li>
+  </ol>
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+ 
+ ### Background
+
+*** hhhhhh***
+
+![mainpic](https://user-images.githubusercontent.com/83662813/137146813-b484bb42-ecbc-4c0b-8b34-947f88faf444.jpg)
+ 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+
+ 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+### Heat Map:
+
+<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137217307-acdee3cd-67df-47d6-bbdd-df230cf2ab8f.jpg"></p>
+
+
+ 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)   
+
+### XGBoost and LinRegression
+
+<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137187176-28be4c64-63fd-48a9-bf71-92cef967da31.jpg"></p>
+
+
+ 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)   
+     
+### Global Production Scatter plot
+
+<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137189565-f0b2aedf-67d7-4d7b-b683-42c778102d3a.jpg"></p>
+
+ 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)   
+   
+### CO2 Emissions 
+  
+<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137186180-9db95aa3-9261-4d75-8e65-a84e7e489183.jpg"></p>
+
+
+ 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+   
+### Total Energy Consumption
+
+<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137190242-06021d33-71be-4151-af22-f496296bce25.png"></p>
+
+
+   
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) 
+ 
+### Methane Emission
+
+<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137186464-27b9831e-dd72-4766-b183-de5a456d9ab7.jpg"></p>
+
+
+   
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+ ### The investment Choices
+ 
+ <p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/138323126-fb8b15c9-810d-4230-b674-fcde0f927fb5.jpg"></p>
+ 
+  
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- ABOUT THE PROJECT -->
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124739629-f43cde80-df11-11eb-9033-c5d1d7194f03.png" width="50px" />
+<h2 id="about-the-project"> About The Project</h2>
+ 
+ <p align="justify">
+  
+   
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+  
+<!-- PREREQUISITES -->
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740780-04a18900-df13-11eb-8a53-ad66e031b55f.png" width="50px" />
+<h2 id="prerequisites"> Prerequisites</h2>
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) <br>
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
+
+<!--This project is written in Python programming language. <br>-->
+The following open source packages are used in this project:
+* Numpy
+* Pandas
+* Matplotlib
+* Python
+* XGBoost
+* lin Regression
+ 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- ROADMAP -->
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124739746-10d91680-df12-11eb-86cd-9aa9494e01bd.png" width="50px" />
+<h2 id="roadmap"> Roadmap</h2>
+ 
+ <p align="justify">
+  
+  * 
+  * 
+  * 
+  * 
+  
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<!-- DELIVERABLES -->
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124741011-3581be00-df13-11eb-8d9a-b44e6fe248a8.png" width="50px" />
+<h2 id="deliverables"> Deliverables</h2>
+ 
+ <p align="justify">
+  
+  **Heaat Map**
+ 
+  
+ **Metane Emmission Plot**
+ 
+  
+**Temperature Effect of Production**
+
+  
+**CO2 emmission per region**
+  
+  
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+ 
+
+<!-- KEY PROJECT FEATURES -->
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124739888-2cdcb800-df12-11eb-8952-5be64764a7aa.png" width="50px" />
+<h2 id="key-project-features"> Key Project Features</h2>
+
+1. Scatter Plots showing methane emmission per global region.
+ 
+2. XGBoost and Lin Regression Models used to predict rising sea levels.
+ 
+3. The rise in temeperatures effect on the world maize, rice and wheat production. 
+ 
+4. The shift or lack thereof from fossil fuels to sustainable energy sources.
+ 
+5. Heat maps showing an increase in temeperature over the last 50 years.
+ 
+6. The Use of electricity and alternative energy sources
+ 
+7. Investment trends indicating human behavior
+ 
+8. The ipcc report on climate change with an emthasis on the climate's temature increase to 1.5 degrees above pre-industrial levels.
+
+9. Countries taking strides to lower their carbon emmisons by 2030
+ 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- RESULTS AND DISCUSSION -->
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740181-74634400-df12-11eb-929c-9aa1bf060806.png" width="50px" />
+<h2 id="results-and-discussion"> Results and Discussion</h2>
+
+<p align="justify">
+ 
+
+
+ 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- REFERENCES -->
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740898-1b47e000-df13-11eb-9518-037652dceeb8.png" width="50px" />
+<h2 id="references"> References</h2>
+ 
+ <p align="justify">
+  
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+  
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- CONTRIBUTORS -->
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740842-108d4b00-df13-11eb-99f7-c36edc39b2a0.png" width="50px" />
+<h2 id="contributors"> Contributors</h2>
+
+
+ 
+Group Members: *** Keith Louis, Ameera Gafoor ***
+
+ 
+ <img src="https://user-images.githubusercontent.com/83662813/137408618-204b30ae-a83f-4a28-b10f-aa60ef66343e.png" align="center"
+   alt="bank logo by Keith Louis" width="420" height="250">
+ 
