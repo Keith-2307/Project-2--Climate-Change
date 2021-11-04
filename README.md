@@ -10,6 +10,7 @@ Global Warming is demanding a shift to sustainable energy...
 ></a> 
  </h1>
  
+ ![Introduction](https://user-images.githubusercontent.com/83662813/140378333-f982fdaf-96e0-43cc-884f-867379759419.jpg)
    
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -18,7 +19,7 @@ Global Warming is demanding a shift to sustainable energy...
  
 > When Sumerian merchants first recorded livestock sales on clay tablets, finance technology was born. Five thousand years later, technology has evolved into a new class of digital tools reshaping every aspect of the business. No matter what future entrepreneurs see for their finance organization, one thing is clear: That future is now. If they’re going to compete in the digital world, their organization needs to forecast and manage more effectively and become more efficient.
 
-![blockchain-g2fb897487_1920](https://user-images.githubusercontent.com/83662813/139303784-2d84f4cf-3afa-4ef1-a904-56802e79369c.png)
+![conclusion](https://user-images.githubusercontent.com/83662813/140381950-53f15e6a-43f5-4ca6-b963-e0eb90234caa.jpg)
  
  <!-- TABLE OF CONTENTS -->
  <img align="left" src="https://user-images.githubusercontent.com/65415371/124740340-9eb50180-df12-11eb-9295-e33ac2752c57.png" width="50px" />
@@ -67,7 +68,7 @@ Global Warming is demanding a shift to sustainable energy...
 
 ### Heat Map:
 
-<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137217307-acdee3cd-67df-47d6-bbdd-df230cf2ab8f.jpg"></p>
+<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/140378691-819e930c-fec2-4c1b-ba3c-971859873efd.jpg"></p>
 
 
  
@@ -75,7 +76,7 @@ Global Warming is demanding a shift to sustainable energy...
 
 ### XGBoost and LinRegression
 
-<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137187176-28be4c64-63fd-48a9-bf71-92cef967da31.jpg"></p>
+<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/140379393-b3680d32-83c3-47a1-9364-21dac7a37c39.jpg"></p>
 
 
  
@@ -83,14 +84,14 @@ Global Warming is demanding a shift to sustainable energy...
      
 ### Global Production Scatter plot
 
-<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137189565-f0b2aedf-67d7-4d7b-b683-42c778102d3a.jpg"></p>
+<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/140380462-f9d3806a-7d0e-4c63-a555-2960312dce7c.jpg"></p>
 
  
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)   
    
 ### CO2 Emissions 
   
-<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137186180-9db95aa3-9261-4d75-8e65-a84e7e489183.jpg"></p>
+<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/140380661-dadd8056-d899-4e44-a863-e46ad4f93231.jpg"></p>
 
 
  
@@ -98,7 +99,7 @@ Global Warming is demanding a shift to sustainable energy...
    
 ### Total Energy Consumption
 
-<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137190242-06021d33-71be-4151-af22-f496296bce25.png"></p>
+<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/140380798-deba2b4b-4c4e-4c76-97f4-12ccd3dbf278.jpg"></p>
 
 
    
@@ -106,7 +107,7 @@ Global Warming is demanding a shift to sustainable energy...
  
 ### Methane Emission
 
-<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/137186464-27b9831e-dd72-4766-b183-de5a456d9ab7.jpg"></p>
+<p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/140380949-13458dd3-b87b-4a60-b216-9a0de9b47346.jpg"></p>
 
 
    
@@ -114,7 +115,7 @@ Global Warming is demanding a shift to sustainable energy...
  
  ### The investment Choices
  
- <p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/138323126-fb8b15c9-810d-4230-b674-fcde0f927fb5.jpg"></p>
+ <p align="left"><img width=75% src="https://user-images.githubusercontent.com/83662813/140381230-f0150edb-9752-4a2b-a659-9b4ed795ef07.jpg"></p>
  
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
