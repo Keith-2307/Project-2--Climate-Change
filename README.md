@@ -213,7 +213,11 @@ Based on the Arima Model output shown we can conclude statistically the data sho
 As per the ARIMA model and the prediction generated, the results are inconclusive. With the prediction casted graph shown above, both plots displayed it looks like they will eventually intersect.With an analysis of the results it can be determined that global consumption will slow with a noticeable increase.Some external factors are to be considered thus cause the increase in energy consumption. Which is unavoidable due to population growth and technology advancements. 
  
 **Investment Plots**
-  
+The above plots indicates our investment strategies, despite the global warnings:
+
+Despite all the issues which combats the planet, we investigated human behavior on a financial scale, more specifically their investment strategies and confidence in the reports and warnings being peppered out. We thought it necessary to portray the confidence in the stock market with regards to our willingness to change and save our planet, as a result:
+
+The daily returns plots here of the much-recommended N. E. Ts. (Negative Emission Technologies) compared with a fossil fuel giant shows that we as a human race, pardon the generalization, still maintain confidence in the use of fossil fuels as an energy source, except for Tesla which we can all place at the feet of a need for profit rather than a need to invest in negative energy. The Exxon stocks continue to outperform the clean energy stocks in 2021 and that have the experts believing that the catastrophes impacting the world thus far has done little to curb our mindset.  
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
