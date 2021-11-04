@@ -2,8 +2,6 @@
 Global Warming is demanding a shift to sustainable energy...
 
  
-</h1>
-
 <h1 align="center">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
@@ -17,7 +15,8 @@ Global Warming is demanding a shift to sustainable energy...
 
 **Introduction**
  
-> When Sumerian merchants first recorded livestock sales on clay tablets, finance technology was born. Five thousand years later, technology has evolved into a new class of digital tools reshaping every aspect of the business. No matter what future entrepreneurs see for their finance organization, one thing is clear: That future is now. If they’re going to compete in the digital world, their organization needs to forecast and manage more effectively and become more efficient.
+> So, let's start with the Paris agreement; The Paris agreement is an agreement within the United Nations framework convention on climate change or the UNFCCC dealing with greenhouse gas emissions mitigation adaptation and ﬁnance. The Paris agreement's long-term goal is to keep the increase in global average temperature to well below 2 degrees Celsius above pre-industrial levels and to limit the increase to 1 1/2 degrees Celsius since this would substantially reduce the risks and eﬀects of climate change. 
+
 
 ![conclusion](https://user-images.githubusercontent.com/83662813/140381950-53f15e6a-43f5-4ca6-b963-e0eb90234caa.jpg)
  
