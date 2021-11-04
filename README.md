@@ -205,7 +205,7 @@ The following open source packages are used in this project:
 
   
 **CO2 emmission per region**
-  
+Based on the Arima Model output shown we can conclude statistically the data shown as inconclusive where the prediction is showing a decent growth rate whereas the actual is showing a decline.Due to all the external factors also affecting the future outcome I think there is some validity to the prediction because CO2 is impacted by more factors than the data used in this projection. With that being considered as long as we as a whole continue to control the risks that are within our capacity to control there should be a slower rate of CO2 emmission into the atmosphere.  
   
 **Energy Consumption**
 As per the ARIMA model and the prediction generated, the results are inconclusive. With the prediction casted graph shown above, both plots displayed it looks like they will eventually intersect.With an analysis of the results it can be determined that global consumption will slow with a noticeable increase.Some external factors are to be considered thus cause the increase in energy consumption. Which is unavoidable due to population growth and technology advancements. 
