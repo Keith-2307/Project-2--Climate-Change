@@ -208,7 +208,7 @@ The following open source packages are used in this project:
   
   
 **Energy Consumption**
-  
+As per the ARIMA model and the prediction generated, the results are inconclusive. With the prediction casted graph shown above, both plots displayed it looks like they will eventually intersect.With an analysis of the results it can be determined that global consumption will slow with a noticeable increase.Some external factors are to be considered thus cause the increase in energy consumption. Which is unavoidable due to population growth and technology advancements. 
  
 **Investment Plots**
   
