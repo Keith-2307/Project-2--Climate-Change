@@ -204,7 +204,7 @@ The effects of Climate Change on the earth is a story which began in the Carboni
  
   
 **Temperature Effect of Production**
-
+The above plot shows the relationship between the max crop yield (Wheat, Rice, Maize) and the Maxium temperature measured from 1991-2019 on the same axis. This represents the inverse reaction that the change in temperature is having on our ability to produce these 3 products which forms the basis of the Carbohydrate intake of the world's cultures in some form or another. As the earth's temperature increases, there is a greater shift towards energy use and fertilizers when producing these products (crop yield) because demand increases as population increases. The increase in energy use is required to acquire water for instance and make it more available as the increase in droughts and prolong droughts restricts production. It should also be understood that the production of Wheat globally is the most significantly affected by the increase in temperature.
   
 **CO2 emmission per region**
 Based on the Arima Model output shown we can conclude statistically the data shown as inconclusive where the prediction is showing a decent growth rate whereas the actual is showing a decline.Due to all the external factors also affecting the future outcome I think there is some validity to the prediction because CO2 is impacted by more factors than the data used in this projection. With that being considered as long as we as a whole continue to control the risks that are within our capacity to control there should be a slower rate of CO2 emmission into the atmosphere.  
