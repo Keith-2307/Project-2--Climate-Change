@@ -195,16 +195,22 @@ The following open source packages are used in this project:
  
  <p align="justify">
   
-  **Heat Map**
+**Heat Map**
  
   
- **Metane Emmission Plot**
+**Metane Emmission Plot**
  
   
 **Temperature Effect of Production**
 
   
 **CO2 emmission per region**
+  
+  
+**Energy Consumption**
+  
+ 
+**Investment Plots**
   
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
