@@ -196,7 +196,9 @@ The following open source packages are used in this project:
  <p align="justify">
   
 **Heat Map**
- 
+The Intergovernmental Panel on Climate Control (IPCC) report, indecates that the earth temperature is unfortunately racing towards 1.5 degrees celcius above pre-industrial levels. Pre-industrial levels are the recorded temperatures between 1850 and 1900 which is the period of time before the start of the industrial revolution in the early 1900s. As the change in temperature increases towards 1.5 degrees, it is estimated that the number of natural disasters being faced will double in frequency. Furthermore, if we are to achieve 2 degrees celcius above pre-industrial levels we would expect natural disasters to quadruple in frequency, with noticeable mentions in severity. Droughts are prolonged, huricanes, cyclones are more severe and the number of wild fires will increase exponential as we have been experiencing.
+
+The effects of Climate Change on the earth is a story which began in the Carboniferous Period, 360 millions years ago when most of the earth's land was forested. When these trees died, the carbon that they stored was trapped underground for millions of years until it was brought back up and put back into the atmosphere at an unnatural rate. 
   
 **Metane Emmission Plot**
  
