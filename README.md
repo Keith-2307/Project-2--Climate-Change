@@ -195,7 +195,7 @@ The following open source packages are used in this project:
  
  <p align="justify">
   
-  **Heaat Map**
+  **Heat Map**
  
   
  **Metane Emmission Plot**
