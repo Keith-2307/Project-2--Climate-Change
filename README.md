@@ -255,14 +255,17 @@ Despite all the issues which combats the planet, we investigated human behavior 
  
  <p align="justify">
   
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
+ * [Stacker](https://stacker.com/stories/3377/natural-disasters-linked-climate-change)
+ * [Weather API](https://openweathermap.org/api)
+ * [The world Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api)
+ * [Data Bank](https://databank.worldbank.org/source/sustainable-energy-for-all/Type/TABLE/preview/on#)
+ * [Government of Canada](https://open.canada.ca/data/en/dataset?q=energy)
+ * [Long Range Weather](http://www.longrangeweather.com/global_temperatures.htm)
+ * [NOAA](https://www.ncdc.noaa.gov/billions/summary-stats/TA/1980-2021)
+ * [KNN Macine Learning](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+ * [Our World in Data](https://ourworldindata.org/co2-emissions)
+ * [FAOSTAT](https://www.fao.org/faostat/en/#data)
+ * [Hindawi](https://www.hindawi.com/journals/je/2013/845051/)
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -270,9 +273,10 @@ Despite all the issues which combats the planet, we investigated human behavior 
 <img align="left" src="https://user-images.githubusercontent.com/65415371/124740842-108d4b00-df13-11eb-99f7-c36edc39b2a0.png" width="50px" />
 <h2 id="contributors"> Contributors</h2>
 
-
  
-Group Members: *** Keith Louis, Ameera Gafoor ***
+Group Members:
+ 
+**Keith Louis, Ameera Gafoor**
 
  
  <img src="https://user-images.githubusercontent.com/83662813/137408618-204b30ae-a83f-4a28-b10f-aa60ef66343e.png" align="center"
