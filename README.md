@@ -159,6 +159,7 @@ The daily returns plots here of the much-recommended N. E. Ts. (Negative Emissio
  
  <p align="justify">
   
+  This project was compiled to show the effects of climate change on the global production as well as increase in sea levels, rise in the green house gases and their effects on the planet. We had a further need to illustrate the increase in sea water levels. The project further shows the reaction of human activity and a lack of concern for the effects of global warming on the planet. The need to use alternative energy sources were not reflected in the investment habits as more individuals invested in fossil fuels instead of sustainable enrgy funds. We further illustrated the regions on earth that were more responsible for methane emmisions as well as carbon dioxide. With the african regions showing a better understanding of the impact of production on the increase in global temperatures to 1.5 degrees above pre-industrial levels.
    
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
