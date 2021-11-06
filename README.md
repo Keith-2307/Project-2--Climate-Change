@@ -186,10 +186,10 @@ The following open source packages are used in this project:
  
  <p align="justify">
   
-  * 
-  * 
-  * 
-  * 
+  * Do sufficent research to gather the data necessary to plot the graphs to display the effect of an increase in green house gases.
+  * Use the XGBoost and Arima model to show the growing need and use of energy sources.
+  * Display the increase in methane emmission and carbon dioxide per world's regions. 
+  * Use Lin Regression to predict the rise in sea levels to 20250, as a result of the melting of the ice caps.
   
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
